@@ -1,7 +1,7 @@
 Problem Statement-
-Tracking everyday expenses becomes difficult when there is no simple system to record and review how money is being spent. 
-Without a clear view of spending patterns, users often lose track of their total expenses and struggle to understand where most of their money is going. 
-This project aims to provide a basic and easy way to log expenses, check averages, and visualize spending distribution.
+Managing daily expenses becomes difficult when there is no proper way to record and review them. People often forget how much they have spent or which category is consuming most of their money. Without a simple tracking system, maintaining financial awareness becomes challenging. This project solves this by providing an easy method to add expenses, check averages, and visualize spending patterns.
+
+
 
 Scope of the Project-
 The project focuses on creating a small, menu-driven expense tracker that works entirely in the terminal. 
