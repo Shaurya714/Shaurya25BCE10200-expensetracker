@@ -1,6 +1,3 @@
-A simple python tool to add expense calculate average and total expenses. It also generates a pie chart visualizing your expenses 
-Expense Tracker with Average Calculation and Pie Chart
-
 Overview-
 This project is a simple expense-tracking program that allows users to record daily expenses, view all entries together, calculate the average spending, and visualize category-wise expenses using a pie chart. It is designed to be easy to use and runs completely through a menu-based terminal interface.
 
